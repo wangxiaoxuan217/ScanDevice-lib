@@ -1,0 +1,3 @@
+rootProject.name = "ScanDevice-lib"
+include ':app'
+include ':discovery'
